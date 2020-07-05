@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/roboapp/static/css/main.23f448a0.chunk.css",
-    "main.js": "/roboapp/static/js/main.52fc108f.chunk.js",
-    "main.js.map": "/roboapp/static/js/main.52fc108f.chunk.js.map",
+    "main.js": "/roboapp/static/js/main.c215f0d2.chunk.js",
+    "main.js.map": "/roboapp/static/js/main.c215f0d2.chunk.js.map",
     "runtime-main.js": "/roboapp/static/js/runtime-main.ebd44ea6.js",
     "runtime-main.js.map": "/roboapp/static/js/runtime-main.ebd44ea6.js.map",
     "static/css/2.3c03f26f.chunk.css": "/roboapp/static/css/2.3c03f26f.chunk.css",
     "static/js/2.cab51068.chunk.js": "/roboapp/static/js/2.cab51068.chunk.js",
     "static/js/2.cab51068.chunk.js.map": "/roboapp/static/js/2.cab51068.chunk.js.map",
     "index.html": "/roboapp/index.html",
-    "precache-manifest.7f7754c6873fe85eb3aee04840ebd157.js": "/roboapp/precache-manifest.7f7754c6873fe85eb3aee04840ebd157.js",
+    "precache-manifest.deab387a71a204ca0348b5573cd4f179.js": "/roboapp/precache-manifest.deab387a71a204ca0348b5573cd4f179.js",
     "service-worker.js": "/roboapp/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/roboapp/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.23f448a0.chunk.css.map": "/roboapp/static/css/main.23f448a0.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.cab51068.chunk.js",
     "static/css/main.23f448a0.chunk.css",
-    "static/js/main.52fc108f.chunk.js"
+    "static/js/main.c215f0d2.chunk.js"
   ]
 }
